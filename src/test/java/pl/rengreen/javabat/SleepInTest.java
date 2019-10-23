@@ -1,4 +1,4 @@
-package pl.rengreen;
+package pl.rengreen.javabat;
 
 /*
 sleepIn(false, false) → true
@@ -8,6 +8,7 @@ sleepIn(true, true) → true
 */
 
 import org.junit.Test;
+import pl.rengreen.javabat.SleepIn;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;

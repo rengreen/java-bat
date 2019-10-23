@@ -1,4 +1,4 @@
-package pl.rengreen;
+package pl.rengreen.javabat;
 
 /*
 The parameter weekday is true if it is a weekday,
